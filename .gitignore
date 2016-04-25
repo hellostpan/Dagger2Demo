@@ -1,6 +1,6 @@
 .gradle
 .idea
 build
-DaggerDemo.iml
+Dagger2Demo.iml
 local.properties
 
